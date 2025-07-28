@@ -1,0 +1,4 @@
+flask
+numpy
+scikit-learn
+#specify the required libraries or steps to be followed.
